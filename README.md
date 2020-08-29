@@ -1,4 +1,4 @@
-### Welcome!🙋🏿‍♀️
+### Hello World!🙋🏿‍♀️
 
 - 💡🌍 I’m currently working on a diverse language translation app 🌍💡
 
