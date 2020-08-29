@@ -1,16 +1,13 @@
-### Hi there 👋
+### Welcome!🙋🏿‍♀️
 
-<!--
-**Thea-J/Thea-J** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💡🌍 I’m currently working on a diverse language translation app 🌍💡
 
-Here are some ideas to get you started:
+- 👩🏿‍💻 I’m learning Typescript & TDD on Udemy - Please plug🔌 me with resources 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📓 See the Tech world through my eyes via my cool & informative [BLOG] (https://medium.com/@dorothyy.john)  
+
+- 💬 Let's discuss the emerging tech industry in Africa
+
+- 🕹 Fun fact: Im a gamer newbie & looking for fun suggestions, open to trying different types of games
+
+- 📲 Connect with me on [LinkedIn] (https://www.linkedin.com/in/dorothy-john-56200b140/) !
