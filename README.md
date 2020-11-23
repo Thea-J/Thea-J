@@ -1,6 +1,6 @@
 ### Hello World!🙋🏿‍♀️
 
-- 💡🌍 I’m currently working on a diverse language translation app 🌍💡
+- 💡 I’m currently working on a scratch card app 💡
 
 - 👩🏿‍💻 I’m learning Typescript & TDD on Udemy - Please plug🔌 me with resources 
 
